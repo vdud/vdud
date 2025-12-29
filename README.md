@@ -41,10 +41,8 @@ I am currently strictly focused on a private commercial project: **A Barcode E-M
 <br/>
 
 ## 🏆 Achievements & Trophies
-<div align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vdud&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="trophy" /></a>
-</div>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=vdud&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 ---
 
 <div align="center">
@@ -55,11 +53,5 @@ I am currently strictly focused on a private commercial project: **A Barcode E-M
 
 ![](https://visitcount.itsvg.in/api?id=vdud&icon=0&color=0)
 
-<br/>
-
-<div align="center">
-  <a href="https://instagram.com/varundudeja"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="https://x.com/varundudeja96"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"/></a>
-</div>
 
 </div>
