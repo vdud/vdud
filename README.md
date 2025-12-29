@@ -42,6 +42,10 @@ I am currently strictly focused on a private commercial project: **A Barcode E-M
 
 ## 🏆 Achievements & Trophies
 https://github-profile-trophy.vercel.app/?username=ryo-ma&title=Stars,Followers
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=vdud)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 ---
 
 <div align="center">
