@@ -33,7 +33,7 @@ I am currently strictly focused on a private commercial project: **A Barcode E-M
 
 ## 📊 Development Metrics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vdud&theme=tokyonight&hide_border=true&count_private=true&show_icons=true" height="150" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vdud&theme=tokyonight&hide_border=true&show_icons=true" height="150" alt="stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vdud&theme=tokyonight&hide_border=true&layout=compact" height="150" alt="langs" />
 </div>
 <div align="center">
