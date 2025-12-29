@@ -32,9 +32,7 @@ I am currently strictly focused on a private commercial project: **A Barcode E-M
 <br/>
 
 ## 📊 Development Metrics
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vdud&theme=tokyonight&hide_border=true&show_icons=true" height="150" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vdud&theme=tokyonight&hide_border=true&layout=compact" height="150" alt="langs" />
+
 </div>
 <div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=vdud&theme=tokyonight&hide_border=true" height="150" alt="streak" />
@@ -56,5 +54,12 @@ I am currently strictly focused on a private commercial project: **A Barcode E-M
 <a href="https://x.com/varundudeja96"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"/></a>
 
 ![](https://visitcount.itsvg.in/api?id=vdud&icon=0&color=0)
+
+<br/>
+
+<div align="center">
+  <a href="https://instagram.com/varundudeja"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://x.com/varundudeja96"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"/></a>
+</div>
 
 </div>
