@@ -1,3 +1,12 @@
+<!--
+    Hey there, I'm Daria Stanilevici!
+    Happy to see you here exploring my README code
+    Feel free to inspire!
+    
+    But may I please ask you to follow me in return? Just a click!
+    You may also want to connect with me on LinkedIn @daria-stanilevici :))
+-->
+
 <div align="center">
 
 # Hi there, I'm Varun! 👋
