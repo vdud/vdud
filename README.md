@@ -1,8 +1,4 @@
-
-
-<a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=D9BED1&width=435&lines=Hello%2C+it's+Daria+Stanilevici;Business+Analyst" alt="Business Analyst"/>
-</a>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+Varun+here+%F0%9F%91%8B;Full-Stack+Web+Developer;Crafting+web+experiences+for+startups+%26+brands)](https://git.io/typing-svg)
 
 <div align="center">
 
